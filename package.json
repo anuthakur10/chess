@@ -1,6 +1,6 @@
 {
-  "name": "chess-game",
-  "homepage": "anuthakur10/github.io/chess/chess-game",
+  "name": "chess",
+  "homepage": "anuthakur10/github.io/chess",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
